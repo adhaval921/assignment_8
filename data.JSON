@@ -1,0 +1,68 @@
+{
+    "cartoons" : [
+    {
+        "CartoonName":"Mickey Mouse",
+        "CharacterFirstName": "Mickey",
+        "CharacterLastName": "Mouse",
+        "Creator": "Walt Disney",
+        "YearRelased": 1928,
+        "Rating": 8.1
+    },
+    {
+        "CartoonName":"Sinchan",
+        "CharacterFirstName": "Sinchan",
+        "CharacterLastName": "Nohara",
+        "Creator": " Yoshito Usui",
+        "YearRelased": 2009,
+        "Rating": 10
+    },
+    {
+        "CartoonName":"Richie Rich",
+        "CharacterFirstName": "Richie",
+        "CharacterLastName": "Rich",
+        "Creator": "Warren Kremer and Alfred Harney",
+        "YearRelased": 1953,
+        "Rating": 7.1
+    },
+    {
+        "CartoonName":"Thomas and Friends",
+        "CharacterFirstName": "Thomas",
+        "CharacterLastName": "The Tank Engine",
+        "Creator": "Britt Allcroft",
+        "YearRelased": 1945,
+        "Rating": 7.9
+    },
+    {
+        "CartoonName":"Ninja Hotori",
+        "CharacterFirstName": "Hotori",
+        "CharacterLastName": "Ninja",
+        "Creator": "Fujiko A Fujio",
+        "YearRelased": 1982,
+        "Rating": 7.6
+    },
+    {
+        "CartoonName":"Chotta Bheem",
+        "CharacterFirstName": "Bheem",
+        "CharacterLastName": "Chotta",
+        "Creator": "Rajiv Chilaka",
+        "YearRelased": "2008",
+        "Rating": 9.5
+    },
+    {
+        "CartoonName":"Mr. Bean",
+        "CharacterFirstName": "Mr",
+        "CharacterLastName": "Bean",
+        "Creator": "Rowan Atkinson",
+        "YearRelased": "2002",
+        "Rating": 9.8
+    },
+    {
+        "CartoonName":" Daffy Duck",
+        "CharacterFirstName": "Daffy",
+        "CharacterLastName": "Duck",
+        "Creator": "Tex Avery and Bob Clampett",
+        "YearRelased": 1937,
+        "Rating": 7.5
+    }
+]
+}
